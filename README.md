@@ -1,0 +1,5 @@
+# Neural Networks - Computational Macroeconomics
+
+This GitLab repository is authored by Francisco Jose Manjon Cabeza Garcia (the author) in the Summer semester 2022 for the TU Berlin seminar *Recent Advances in Computational Macroeconomics*. The scripts are a practical implementation of a benchmark model, which the author used to compare programming languages for researchers. The topic of the seminar paper was based on the paper called *MatLab, Python, Julia: What to Choose in Economics?* by Chase Coleman, Spencer Lyon, Lilia Maliar and Serguei Maliar. A presentation of this paper was delivered for the seminar, and the paper written by the author shows a small contribution to the research direction of the original paper mentioned.
+
+We present the implementation of a long short-term neural network to forecast monthly inflation in the US using two different  programming languages: Python and Julia. We compare the implementations with respect to computational running time, accuracy in the predictions and difficulty to code.
